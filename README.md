@@ -1,6 +1,6 @@
 # Weather Data API
 
-![Build Status](https://github.com/ashishjoshi2605/colaberry-coding-assesment/actions/workflows/test.yml/badge.svg)
+![Build Status](https://github.com/ashishjoshi2605/colaberry-coding-assesment/actions/workflows/test.yml/badge.svg?branch=main)
 
 ## Purpose
 
