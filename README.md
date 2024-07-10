@@ -1,6 +1,9 @@
 # Weather Data API
 
 ![Build Status](https://github.com/ashishjoshi2605/colaberry-coding-assesment/actions/workflows/test.yml/badge.svg?branch=main)
+[![codecov](https://codecov.io/gh/ashishjoshi2605/colaberry-coding-assesment/branch/main/graph/badge.svg)](https://codecov.io/gh/ashishjoshi2605/colaberry-coding-assesment)
+![Commits](https://img.shields.io/github/commit-activity/m/ashishjoshi2605/colaberry-coding-assesment)
+![Repo Size](https://img.shields.io/github/repo-size/ashishjoshi2605/colaberry-coding-assesment)
 
 ## Purpose
 
